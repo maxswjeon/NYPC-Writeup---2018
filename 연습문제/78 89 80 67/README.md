@@ -45,4 +45,4 @@ A = 65, B = 66, …, Y = 89, Z = 90
 |    Python2   |      1초     |     64MB     |
 |    Python3   |      1초     |     64MB     |
 
-## 풀이
+## [풀이](./solution/README.md)

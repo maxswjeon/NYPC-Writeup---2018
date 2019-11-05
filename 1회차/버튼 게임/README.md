@@ -46,4 +46,4 @@
 |    Python2   |     0.5초    |    256MB     |
 |    Python3   |     0.5초    |    256MB     |
 
-## 풀이
+## [풀이](./solution/README.md)
